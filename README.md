@@ -43,9 +43,6 @@ Backend Developer • Cloud Enthusiast • Problem Solver
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=FF8C00&style=flat" alt="profile views" />
-</p>
 ---
 
 
