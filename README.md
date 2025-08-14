@@ -37,16 +37,16 @@ Backend Developer • Cloud Enthusiast • Problem Solver
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/agile/agile-original.svg" alt="agile" width="40" height="40"/>  
 </p>
 
-## 📊 GitHub Stats  
+## 🔥 My Stats :
 
-![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ar4487&show_icons=true&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00" alt="GitHub Streak" />
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=FF8C00&style=flat" alt="profile views" />
+</p>
 ---
 
-## 🤝 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arpit-bhadoria)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/ar4487)  
-
----
 
 ⭐ **Always learning, always building!**  
