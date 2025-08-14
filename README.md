@@ -25,3 +25,18 @@ Backend Developer • Cloud Enthusiast • Problem Solver
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style)
+
+## 📊 GitHub Stats  
+
+![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ar4487&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ar4487&layout=compact&theme=radical)  
+
+---
+
+## 🤝 Let's Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arpit-bhadoria)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/ar4487)  
+
+---
+
+⭐ **Always learning, always building!**  
