@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Arpit Bhadoria</h1>
+<h1 align="center">Hey there 👋</h1>
 <p align="center">
 Backend Developer • Cloud Enthusiast • Problem Solver
 </p>
@@ -9,11 +9,16 @@ Backend Developer • Cloud Enthusiast • Problem Solver
 
 ---
 
-## 🚀 About Me
-- 💻 **Backend Developer** with experience in **Node.js**, **FastAPI**, REST APIs, and database integrations.  
-- ☁️ Exploring **Cloud technologies** — AWS (ECS, RDS, S3, CloudWatch) & Azure (Monitor, Storage, Functions).  
-- 🧠 Solved **200+ Data Structures & Algorithms** problems on multiple platforms.  
-- 🎯 Passionate about building scalable, secure, and maintainable applications.  
+## 👩‍💻 About Me
+
+## 👋 Hi, I'm Arpit Bhadoria
+
+- 📍 Lives in **Ghaziabad, India**  
+- 🔭 I’m working as an **SR Analyst** at **Capgemini**  
+- 💻 I have worked on **Node.js projects** and specialize in backend development, process automation, and cloud integrations  
+- 📚 I'm currently enhancing my expertise in **Azure** while expanding my skills to other cloud platforms  
+- ⚡ In my free time, I explore new tech stacks, work on personal coding projects, and mentor peers who are aspiring to enter the tech field
+
 
 ---
 
