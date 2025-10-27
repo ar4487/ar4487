@@ -45,8 +45,7 @@ DevOps Engineer • Cloud Enthusiast • Infrastructure Automator
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/github-actions.svg" alt="github actions" width="40" height="40"/>
-
+  
   <!-- Monitoring & Observability -->
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
@@ -57,10 +56,7 @@ DevOps Engineer • Cloud Enthusiast • Infrastructure Automator
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="apache" width="40" height="40"/>
 
-  <!-- Other Tools -->
-  <img src="https://cdn.worldvectorlogo.com/logos/vscode.svg" alt="vscode" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jira/jira-icon.svg" alt="jira" width="40" height="40"/>
+
 </p>
 
 ## 🔥 My Stats :
