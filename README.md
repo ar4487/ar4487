@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋</h1>
 <p align="center">
-Backend Developer • Cloud Enthusiast • Problem Solver
+Devops Engineer • Cloud Enthusiast • Problem Solver
 </p>
 
 <p align="center">
