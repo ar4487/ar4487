@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋</h1>
 <p align="center">
-Devops Engineer • Cloud Enthusiast • Problem Solver
+DevOps Engineer • Cloud Enthusiast • Infrastructure Automator
 </p>
 
 <p align="center">
@@ -14,10 +14,11 @@ Devops Engineer • Cloud Enthusiast • Problem Solver
 ## 👋 Hi, I'm Arpit Bhadoria
 
 - 📍 Lives in **Ghaziabad, India**  
-- 🔭 I’m working as an **SR Analyst** at **Capgemini**  
-- 💻 I have worked on **Node.js projects** and specialize in backend development, process automation, and cloud integrations  
-- 📚 I'm currently enhancing my expertise in **AWS** while expanding my skills to other cloud platforms  
-- ⚡ In my free time, I explore new tech stacks, work on personal coding projects, and mentor peers who are aspiring to enter the tech field
+- 💼 Working as an Sr. Analyst (Cloud & DevOps) at Capgemini
+- ☁️ Skilled in Azure and AWS, with hands-on experience in Terraform, Jenkins, Docker, Ansible, and Kubernetes  
+- 🔧 I focus on infrastructure automation, CI/CD pipeline optimization, and cloud monitoring & reliability  
+- 🚀 Currently deepening my expertise in multi-cloud architecture and infrastructure as code
+- ⚡ Outside of work, I build DevOps projects, explore new tools, and guide peers aiming to transition into cloud roles
 
 
 ---
