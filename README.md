@@ -14,7 +14,7 @@ DevOps Engineer • Cloud Enthusiast • Infrastructure Automator
 ## 👋 Hi, I'm Arpit Bhadoria
 
 - 📍 Lives in **Ghaziabad, India**  
-- 💼 Working as an Sr. Analyst (Cloud & DevOps) at Capgemini
+- 💼 Working as a Sr. Analyst (Cloud & DevOps) at Capgemini
 - ☁️ Skilled in Azure and AWS, with hands-on experience in Terraform, Jenkins, Docker, Ansible, and Kubernetes  
 - 🔧 I focus on infrastructure automation, CI/CD pipeline optimization, and cloud monitoring & reliability  
 - 🚀 Currently deepening my expertise in multi-cloud architecture and infrastructure as code
