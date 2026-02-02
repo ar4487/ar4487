@@ -57,14 +57,6 @@ DevOps Engineer • Cloud Enthusiast • Infrastructure Automator
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="apache" width="40" height="40"/>
 
 
-</p>
-
-## 🔥 My Stats :
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ar4487&theme=dark&hide_border=true&background=0D1117&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00" alt="GitHub Streak" />
-</p>
-
 ---
 
 
